@@ -1,0 +1,1 @@
+Write a program that prompts the user to input a sequence of characters and outputs the number of vowels

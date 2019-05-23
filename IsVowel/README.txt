@@ -1,0 +1,1 @@
+Write a value-returning function, isVowel, that returns the value true if a given character is a vowel and otherwise returns false.
